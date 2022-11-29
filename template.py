@@ -21,7 +21,7 @@ list_of_files = [
     f"tests/__init__.py", 
     f"tests/unit/__init__.py", 
     f"tests/integration/__init__.py", 
-    "init_setup.sh",     #repo for env set up
+    "init_setup.sh",     #repo for env set up and install requirements
     "requirements.txt",
     "requirements_dev.txt",     #testing
     "setup.py",     #basic setup
